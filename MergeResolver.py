@@ -29,6 +29,6 @@ if os.path.exists(arquivo):
 
     print("O arquivo foi limpo com sucesso")
 else:
-    print("Arquivo nao encontrado!")
+    print("Arquivo nao encontrado.")
 
 saida = input("Aperte enter para fechar.")
