@@ -27,7 +27,7 @@ if os.path.exists(arquivo):
     with open(arquivo, "w", encoding="utf-8") as f:
         f.writelines(novo_conteudo)
 
-    print("O arquivo foi limpo com sucesso")
+    print("O arquivo foi limpo com sucesso.")
 else:
     print("Arquivo nao encontrado.")
 
