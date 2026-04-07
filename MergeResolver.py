@@ -31,4 +31,4 @@ if os.path.exists(arquivo):
 else:
     print("Arquivo nao encontrado.")
 
-saida = input("Aperte enter para fechar")
+saida = input("Aperte enter para fechar.")
